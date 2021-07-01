@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/asafheybetli/chatbot/main/testing2.tsv'
+url = 'https://raw.githubusercontent.com/asafheybetli/Demotry/main/ehu2.tsv'
 
 df = pd.read_csv(url, sep="\t")
 
